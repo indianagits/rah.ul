@@ -25,5 +25,5 @@ MySQL
 ```mysql
 create database rahul;
 create user rahul identified by 'rahul';
-grant all privileges on rahul.* to rahul
+grant all privileges on rahul.* to rahul;
 ```
