@@ -18,7 +18,7 @@ Postgres
 ````psql
 create database rahul;
 create user rahul with encrypted password 'rahul';
-grant all privileges on rahul.* to rahul
+grant all privileges on rahul.* to rahul;
 ```
 
 MySQL   
@@ -28,9 +28,6 @@ create user rahul identified by 'rahul';
 grant all privileges on rahul.* to rahul
 ```
 
-```
 ### Credits
 
 https://github.com/scaleracademy/MasterClass_NodeJS_URL_Shortner
-
-```
