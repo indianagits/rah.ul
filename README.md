@@ -2,7 +2,6 @@
 
 ### Database Setup
 
-```
 Enter PSQL for Postgres
 
 # Linux
