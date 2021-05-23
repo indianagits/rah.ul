@@ -27,7 +27,3 @@ create database rahul;
 create user rahul identified by 'rahul';
 grant all privileges on rahul.* to rahul
 ```
-
-### Credits
-
-https://github.com/scaleracademy/MasterClass_NodeJS_URL_Shortner
